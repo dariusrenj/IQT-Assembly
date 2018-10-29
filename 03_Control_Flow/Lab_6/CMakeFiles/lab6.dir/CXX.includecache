@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Class/MyRepos/IQT-Assembly/03_Control_Flow/Lab_6/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
